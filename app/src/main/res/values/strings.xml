@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab1.a - Hello World and Name</string>
+    <string name="showtext">Hello World?!</string>
+</resources>
