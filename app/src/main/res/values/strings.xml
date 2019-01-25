@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Lab1.a - Hello World and Name</string>
-    <string name="showtext">Hello World?!</string>
+    <string name="lblHelloWorld">Hello World?!</string>
+    <string name="btnOk">Ok</string>
+    <string name="lblHelloWorld2">Hello World?</string>
+    <string name="lblEnterName">Please enter your name</string>
+    <string name="etEnterNameHint">Enter your name</string>
+    <string name="btn2">Ok Again</string>
+    <string name="lblRevName">Your name spelled backwards is : </string>
+
 </resources>
